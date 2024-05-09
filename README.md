@@ -1,6 +1,6 @@
 # EX-03 Implementation of MLP for a non-linearly separable data
 ### Aim: 
-To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:18.04.2024**
+To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### Theory: 
 <table>
 <tr>
