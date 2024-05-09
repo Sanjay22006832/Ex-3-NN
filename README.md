@@ -66,8 +66,8 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum.<BR
     (v)  Append the losses in a list.<BR>
 Step 4 : Test for the XOR patterns.
 ```
-Developed By: ROHIT JAIN D
-Register No : 212222230120
+Developed By: M Sanjay
+Register No : 212222240090
 ```
 ### Program: 
 ```Python
